@@ -1,4 +1,4 @@
-# Real-Power-System-Oscillation-Dataset
+# North American Power System Oscillation Event Dataset
 
 **Authors:**  
 Yayu (Andy) Yang (yyang117@utk.edu), Hao Fu, Haozong Wang, Boming Liu
