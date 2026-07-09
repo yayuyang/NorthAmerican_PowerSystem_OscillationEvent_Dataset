@@ -90,7 +90,7 @@ This dataset is intended for:
 The dataset is intended for research and educational purposes only and is not designed for operational decision-making without additional validation.
 
 ## 8.  Download
-**[➡️ Download the Latest Release (V1)](https://github.com/yayuyang/PVSizer_Tool_AlphaVersion/releases)**
+**[➡️ Download the Latest Release (V1)]([https://github.com/yayuyang/PVSizer_Tool_AlphaVersion](https://github.com/yayuyang/NorthAmerican_PowerSystem_OscillationEvent_Dataset/releases)**
 
 ## 9. Project Funding
 
